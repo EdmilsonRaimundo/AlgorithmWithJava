@@ -2,7 +2,7 @@ package controle;
 
 import java.util.Scanner;
 
-public class ex002 {
+public class ex018 {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
