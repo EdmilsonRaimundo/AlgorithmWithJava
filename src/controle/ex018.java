@@ -7,7 +7,6 @@ public class ex018 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int anoNascimento, anoAtual, idade;
-
         System.out.print("Insira o seu ano de nascimento: ");
         anoNascimento = in.nextInt();
 
