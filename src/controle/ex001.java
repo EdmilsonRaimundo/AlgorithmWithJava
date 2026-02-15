@@ -1,4 +1,4 @@
-package sequencial;
+package controle;
 
 public class ex001 {
 

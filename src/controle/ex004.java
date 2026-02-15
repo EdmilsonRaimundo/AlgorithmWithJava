@@ -1,4 +1,4 @@
-package sequencial;
+package controle;
 
 import java.util.Scanner;
 
